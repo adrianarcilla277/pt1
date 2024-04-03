@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/app"
+		},
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/config"
+		},
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/extend"
+		},
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/public"
+		},
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/route"
+		},
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/runtime"
+		},
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/vendor"
+		},
+		{
+			"path": "D:/DOWNLOADS/Think_FW_Webbase-2_1/view"
+		}
+	]
+}
